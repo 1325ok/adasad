@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Android Image Kitchen - UnpackImg Script";
 echo "by osm0sis @ xda-developers";
 echo " ";
